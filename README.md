@@ -1,2 +1,2 @@
 # yoshigame
-C# Software for geme-type Raspberry Pi Hats
+C# Software for game-type Raspberry Pi Hats
