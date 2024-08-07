@@ -19,8 +19,8 @@ internal class MeadowApp : YoshiGameMiniApp
 
         _statusLabel = new Label(0, 0, _screen.Width, _screen.Height)
         {
-            HorizontalAlignment = Meadow.Foundation.Graphics.HorizontalAlignment.Center,
-            VerticalAlignment = Meadow.Foundation.Graphics.VerticalAlignment.Center,
+            HorizontalAlignment = HorizontalAlignment.Center,
+            VerticalAlignment = VerticalAlignment.Center,
             TextColor = Color.White,
             Font = new Font16x24(),
             Text = "HELLO!"
